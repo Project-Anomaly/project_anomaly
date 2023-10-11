@@ -4,7 +4,7 @@ def import_logs():
     '''
     imports .txt for use in later function
     '''
-    pd.read_csv('anonymized-curriculum-access.txt', sep=' ', header=None)
+    df = pd.read_csv('anonymized-curriculum-access.txt', sep=' ', header=None)
     return df
 
 
