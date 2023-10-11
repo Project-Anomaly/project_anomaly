@@ -1,0 +1,25 @@
+Respected Super Important Person:
+
+
+Please see Edwige and Nisha's response to the question below.
+
+1. Which lesson appears to attract the most traffic consistently across cohorts (per program)?
+    The lesson "javascript-i" appears to attract the most traffic consistently across cohorts, with a total of 18,203 visits.
+
+2. Is there a cohort that referred to a lesson significantly more than other cohorts seemed to gloss over?
+    Cohort 28 exhibited a notably high referral rate to the "javascript-i" lesson with a total of 1,817 visits, which is significantly more compared to other cohorts.
+    Cohort 59 following Cohort 28 exhibited high referral rate to "classification/overview" lesson with a total of 1,109 visits. 
+
+3. Are there students who, when active, hardly access the curriculum? If so, what information do you have about these students?
+
+
+4. Is there any suspicious activity, such as users/machines/etc accessing the curriculum who shouldn’t be? Does it appear that any web-scraping is happening? Are there any suspicious IP addresses?
+    The IP address 97.105.19.58 has exhibited unusual activity that raises suspicions regarding its legitimacy and purpose of access.
+    The IP demonstrated an extraordinarily frequent access pattern, with an average time of approximately 3 minutes and 7 seconds between logs, and the shortest time between logs being immediate.
+    The earliest and latest access times recorded were 06:09 and 23:34:11, respectively, spanning a wide range throughout the day.
+    A strikingly high number of 402 different users have been associated with this IP address, which is atypical for conventional usage patterns.
+
+
+
+7. Which lessons are least accessed?
+    A notable number of lessons(60), such as "0_Classification_Algorithms", "2.0_Intro_Stats", and "8.0_Intro_Module", among others, have been accessed just once. 
